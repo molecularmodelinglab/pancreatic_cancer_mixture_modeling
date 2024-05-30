@@ -107,7 +107,7 @@ def main():
 
 
         #"mixture" models use Sirms descriptors, these require external generation for a given dataset
-        #contact Eugene Muratov (murik@unc.edu) for access
+        #contact Eugene Muratov (murik@email.unc.edu) for access
         if "mixture" in model_names[i]:
             continue
 
